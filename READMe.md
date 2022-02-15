@@ -59,4 +59,4 @@ EOF
 --- 
 Tigger deployment job if the merge was successfull
 - Testing webhook in bootcamp test3
-- Test 28
+- Test 29
